@@ -1,0 +1,9 @@
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\bin\Debug\ContactManagement.Repository.dll.config
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\bin\Debug\ContactManagement.Repository.dll
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\bin\Debug\ContactManagement.Repository.pdb
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\bin\Debug\EntityFramework.dll
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\bin\Debug\EntityFramework.xml
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\obj\Debug\ContactManagement.Repository.dll
+C:\Users\SkY\Documents\Visual Studio 2015\CMS\ContactManagementSystem\ContactManagement.Repository\obj\Debug\ContactManagement.Repository.pdb
